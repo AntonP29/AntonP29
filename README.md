@@ -20,39 +20,6 @@ When I’m not coding, I’m experimenting with design trends, contributing to o
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Sylva iPA Signer](https://sylvasigner.pages.dev)
-**Sign iOS apps directly in the browser** — no desktop software needed.  
-Built with **WebAssembly**, **zsign**, and **Next.js**, redefining how sideloading works.
-
-🧩 `WebAssembly` • `zsign` • `iOS` • `Browser`
-
----
-
-### 🔹 [AntonP29 iPA Repo](https://raw.githubusercontent.com/AntonP29/AntonP29-Repo/refs/heads/main/repo.json)
-A **comprehensive iPA repository** offering premium and daily-use apps.  
-Designed for easy integration with any iOS signing platform.
-
-📦 `iPA` • `Repository` • `Premium` • `iOS`
-
----
-
-### 🔹 [iPA RepoViewer](https://repoviewer.pages.dev/)
-A **minimalist web interface** for browsing iPA repositories in the browser.  
-Clean, fast, and intuitive — just how a modern web app should feel.
-
-🧭 `Web Interface` • `Repository` • `Minimalist` • `Frontend`
-
----
-
-### 🔹 [Veyra Cloud Storage](https://veyracloud.pages.dev/)
-A **custom Catbox.moe frontend + iPA manager**, letting users upload, preview, and share files easily.
-
-☁️ `Cloud Storage` • `File Manager` • `Catbox.moe` • `Free`
-
----
-
 ## 🧰 Skills & Technologies
 
 **Frontend**  
