@@ -6,7 +6,11 @@
 Crafting **beautiful**, **performant**, and **modern** web experiences.  
 Passionate about **clean code**, **elegant design**, and **solving complex problems**.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 About Me
 
@@ -20,7 +24,11 @@ What started as curiosity has become a deep passion for **creating seamless digi
 
 When I’m not coding, I’m experimenting with design trends, contributing to open-source, or connecting with the dev community on Discord.
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🧰 Skills & Technologies
 
@@ -33,23 +41,35 @@ When I’m not coding, I’m experimenting with design trends, contributing to o
 **Tools & Platforms**  
 `Git / GitHub` • `Docker` • `AWS` • `Figma`
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📍 Location & Time
 
 🌎 **Seattle, WA**  
 💬 **Discord:** `@googlewifi`
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🤝 Let’s Build Something Amazing
 
 Have an idea, collaboration, or just want to chat about web tech?  
 I’m always open to exciting opportunities and new challenges.
 
----
+</div>
 
-### 🪶 Made with passion in Seattle, WA  
+<br>
+
+<div align="center">
+
+🪶 Made with passion in Seattle, WA  
 © 2025 **AntonP29** — All rights reserved.
 
 </div>
