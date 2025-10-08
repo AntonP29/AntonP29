@@ -33,7 +33,7 @@ When I’m not coding, I’m experimenting with design trends, contributing to o
 
 ---
 
-## 📍 Location & Time
+## 📍 Location
 
 🌎 **Seattle, WA**  
 💬 **Discord:** `@googlewifi`
