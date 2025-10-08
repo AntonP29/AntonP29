@@ -36,7 +36,6 @@ When I’m not coding, I’m experimenting with design trends, contributing to o
 ## 📍 Location & Time
 
 🌎 **Seattle, WA**  
-🕒 Current Time: ![Time Badge](https://img.shields.io/badge/Seattle%20Time-12:07%20PM%20PST-blue?style=flat-square)  
 💬 **Discord:** `@googlewifi`
 
 ---
