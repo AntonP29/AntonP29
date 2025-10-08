@@ -1,25 +1,6 @@
 # 👋 Hey there, I'm Anthony (AntonP29)
 
-### 💻 Full-Stack Developer & Designer  
-Crafting **beautiful**, **performant**, and **modern** web experiences.  
-Passionate about **clean code**, **elegant design**, and **solving complex problems**.
-
----
-
-## 🌐 About Me
-
-I’m a developer from **Seattle, WA**, who loves building things for the web — from experimental apps to full-scale cloud platforms.  
-What started as curiosity has become a deep passion for **creating seamless digital experiences** and pushing the limits of what runs in a browser.
-
-- ✨ **Clean Code:** maintainable, scalable, and efficient  
-- 🎨 **Design Focus:** UI that balances function and form  
-- ⚡ **Performance:** optimized for speed and smooth UX  
-- 🧠 **Innovation:** always exploring the next frontier in web tech  
-
-When I’m not coding, I’m experimenting with design trends, contributing to open-source, or connecting with the dev community on Discord.
-
----
-
+### 💻 Full-Stack Developer, Designer, and Computer Engineering Student
 ## 🧰 Skills & Technologies
 
 **Frontend**  
@@ -31,21 +12,7 @@ When I’m not coding, I’m experimenting with design trends, contributing to o
 **Tools & Platforms**  
 `Git / GitHub` • `Docker` • `AWS` • `Figma`
 
----
-
-## 📍 Location
-
-🌎 **Seattle, WA**  
-💬 **Discord:** `@googlewifi`
-
----
-
 ## 🤝 Let’s Build Something Amazing
-
 Have an idea, collaboration, or just want to chat about web tech?  
 I’m always open to exciting opportunities and new challenges.
 
----
-
-### 🪶 Made with passion in Seattle, WA  
-© 2025 **AntonP29** — All rights reserved.
