@@ -5,7 +5,7 @@
 ## 🧰 Skills & Technologies
 
 **Programming Languages**  
-`JavaScript` • `TypeScript (TSX)` • `Python` • `C++` • `Java` • `Swift` • `SQL (basic)` • `HTML/CSS` • `Shell`
+`JavaScript` • `TypeScript (TSX)` • `Python` • `C++` • `Java` • `Swift` • `SQL` • `HTML/CSS` • `Shell`
 
 **Frontend**  
 `React` • `Next.js` • `Tailwind CSS` • `Vue.js`
